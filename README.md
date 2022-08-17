@@ -47,7 +47,7 @@
     <a href="mailto:fs07santana@gmail.com" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50"/>
     </a>
-    <a href="https://www.linkedin.com/in/luiz-dos-santos-96157a235/" target="_blank">
+    <a href="https://www.linkedin.com/in/luiz-felipe-santana-dos-santos-96157a235/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
     </a>
     <a href="https://www.instagram.com/eusant07/" target="_blank">
@@ -62,7 +62,7 @@
 <h3>
     Status
 </h3>
-    <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="250" height="340"/>
+    <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="240" height="340"/>
     <a href="https://github.com/FelipeSantana07">
        <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
        <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>

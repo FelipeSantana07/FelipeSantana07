@@ -10,7 +10,7 @@
 </div>
 
 <div align="">
-    <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="320" height="470"/>
+    <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="320" height="100%"/>
     <a href="https://github.com/FelipeSantana07">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>

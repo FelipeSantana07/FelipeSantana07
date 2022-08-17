@@ -68,7 +68,7 @@
        <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
     </a>
     
-    <br>
+</br> </br>
     
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantana07&&theme=tokyonight" alt="rishavchanda" /></p>
 

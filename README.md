@@ -64,22 +64,12 @@
 </h3>
     <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="250" height="340"/>
     <a href="https://github.com/FelipeSantana07">
-    <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantana07&&theme=tokyonight" alt="rishavchanda" /></p>
+       <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+       <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
+    </a>
+    
+    <br>
+    
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantana07&&theme=tokyonight" alt="rishavchanda" /></p>
 
 
-<!--
-**FelipeSantana07/FelipeSantana07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

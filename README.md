@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/mon.png" width="200"/>
+
 <h2>
     Bem-vindo! Eu sou Santana  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </h2>
@@ -9,10 +9,11 @@
       <p align="right">  </p> 
 </div>
 
-<div align="center">
+<div align="">
+    <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="320" height="470"/>
     <a href="https://github.com/FelipeSantana07">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
 </div>
 
 <!--

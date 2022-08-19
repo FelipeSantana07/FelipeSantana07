@@ -16,7 +16,7 @@
 </h3>
 
 <ul>
-    <li>💜 Amante de design e desenvolvimento <strong>Front-end</strong>
+    <li>💜 Amante de design e <strong>Front-end</strong>
     <li>💻 Interessado em novas tecnologias e tendências
     <li>🚧 Cnstruindo minha carreira
 </ul>

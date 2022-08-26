@@ -28,8 +28,8 @@
 </h3>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50"/>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="58" height="58"/></a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width="56" height="56"/>
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
@@ -62,10 +62,9 @@
 <h3>
     Status
 </h3>
-    <img align="left" src="https://github.com/FelipeSantana07/FelipeSantana07/blob/main/img/moon.png" width="240" height="340"/>
     <a href="https://github.com/FelipeSantana07">
-       <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-       <img width="50%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
+       <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+       <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
     </a>
     
 </br> </br>

@@ -63,13 +63,14 @@
 <h3>
     Status
 </h3>
+<div align="center">
     <a href="https://github.com/FelipeSantana07">
-       <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-       <img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
+       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantana07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantana07&layout=compact&langs_count=8&theme=material-palenight"/>
     </a>
-    
+</div>
 </br> </br>
     
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantana07&&theme=tokyonight" alt="rishavchanda" /></p>
+<div align="center"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSantana07&&theme=tokyonight" alt="rishavchanda" /></div>
 
 

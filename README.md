@@ -18,7 +18,7 @@
 <ul>
     <li>💜 Amante de design e <strong>front-end</strong>
     <li>💻 Interessado em novas tecnologias e tendências
-    <li>📚 Estudando COBOL
+    <li>📚 Estudando COBOL e PostgreSQL
     <li>🚧 Construindo minha carreira
 </ul>
 

@@ -7,7 +7,7 @@
 
 <p align="center">
     <em>
-        Cursando o 3° Ano do Ensino Médio com Técnico Integrado em <strong>Desenvolvimento de Sistema</strong>.
+        Trabalhando com <strong>Desenvolvimento de Sistema</strong> utilizando <strong>COBOL</strong>strong>.
     </em>
 </p> 
 
@@ -16,9 +16,8 @@
 </h3>
 
 <ul>
-    <li>💜 Amante de design e <strong>front-end</strong>
     <li>💻 Interessado em novas tecnologias e tendências
-    <li>📚 Estudando COBOL e PostgreSQL
+    <li>📚 Estudando COBOL e SQL
     <li>🚧 Construindo minha carreira
 </ul>
 
@@ -29,11 +28,8 @@
 </h3>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="50" height="50"/>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/></a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50" height="50"/>

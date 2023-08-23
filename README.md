@@ -7,7 +7,7 @@
 
 <p align="center">
     <em>
-        Trabalhando com <strong>Desenvolvimento de Sistema</strong> utilizando <strong>COBOL</strong>strong>.
+        Trabalhando com <strong>Desenvolvimento de Sistema</strong> utilizando <strong>COBOL</strong>.
     </em>
 </p> 
 

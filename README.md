@@ -7,7 +7,7 @@
 
 <p align="center">
     <em>
-        Trabalhando com <strong>Desenvolvimento de Sistema</strong> ERM.
+        Trabalhando com <strong>Desenvolvimento de Sistema</strong> ERP.
     </em>
 </p> 
 

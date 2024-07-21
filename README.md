@@ -1,56 +1,65 @@
+<h1 align="left">Welcome! 👋</h1>
 
-<h2>
-   Bem-vindo! Eu sou o Santana <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-</h2>
+###
 
-</br>
+<p align="left">My name is Luiz and I'm a developer</p>
 
-<p align="center">
-    <em>
-        Trabalhando com <strong>Desenvolvimento de Sistema</strong> ERP.
-    </em>
-</p> 
+###
 
-<h3>
-    Sobre mim
-</h3>
+<h2 align="left">About me</h2>
 
-<ul>
-    <li>💻 Interessado em novas tecnologias e tendências
-    <li>📚 Cursando Analise e Desenvovimento de Sistema USC
-    <li>📝 Estudando JS 
-    <li>🚧 Construindo minha carreira
-</ul>
+###
 
-</br>
+<p align="left">✨ Woking smart<br>📚 Studying Análise e Desenvolvimento de Sistemas USC<br>🎲 Fun fact: I like to draw</p>
 
-<h3>
-    Linguagens e Ferramentas:       
-</h3>
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-</p>       
-          
-</br>
+###
 
-<h3>
-    Entre em contato por:
-</h3>
-<p>
-    <a href="mailto:fs07santana@gmail.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50"/>
-    </a>
-    <a href="https://www.linkedin.com/in/luiz-felipe-santana-dos-santos-96157a235/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
-    </a>
-    <a href="https://www.instagram.com/eusant07/" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" width="50" height="50"/>
-    </a>
-    
-</p>
+<h2 align="left">I code with</h2>
 
+###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h2 align="left">Technologies</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=white&style=for-the-badge" height="40" alt="cakephp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+</div>
+
+###

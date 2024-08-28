@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾 Woking with backend and desktop<br>📚 Studying Análise e Desenvolvimento de Sistemas USC<br>📧 contact: <strong>fs07santana@gmail.com</strong></p>
+<p align="left">👾 Working with backend and desktop<br>📚 Studying Análise e Desenvolvimento de Sistemas USC<br>📧 contact: <strong>fs07santana@gmail.com</strong></p>
 
 ###
 
